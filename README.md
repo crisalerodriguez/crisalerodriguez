@@ -10,12 +10,6 @@
 
 Soy originario de Argentina y he decidido enfocar toda mi energía en aprender y crecer en el campo de la tecnología. Estoy estudiando diligentemente y adquiriendo habilidades en diversas áreas del desarrollo, desde el front-end hasta el back-end, con la meta de ser un desarrollador Full Stack.
 
-Mi determinación y pasión por el aprendizaje me motivan a superar desafíos y adquirir nuevos conocimientos constantemente. Me considero una persona adaptable, capaz de amoldarme rápidamente a nuevos entornos y tecnologías en constante evolución.
-
-Busco una oportunidad en una empresa donde pueda consolidarme y contribuir con mi experiencia y habilidades. Mi objetivo no es solo crecer a nivel personal, sino también ser parte de un equipo que crezca y se desarrolle en conjunto. Creo en el poder de la colaboración y estoy emocionado por sumar mis capacidades a un proyecto desafiante.
-
-Siempre estoy en busca de nuevas oportunidades para aprender, crecer y aportar valor. Si compartes la pasión por la tecnología y el desarrollo, ¡me encantaría conectarme contigo!
-
 ¡Gracias por visitar mi perfil!
 </h3>
 &emsp;
