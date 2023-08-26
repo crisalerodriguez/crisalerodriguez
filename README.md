@@ -1,16 +1,13 @@
-### Hi there 👋
+### Desarrollador Full Stack 
 
 <h1 align="center">Hi 👋, I'm Rodriguez Cristian</h1>
-
-<img src="https://raw.githubusercontent.com/berkeli/berkeli/main/assets/header.jpg" align="center" alt="berkeli header image">
-
 -------------------
+
 &emsp;
-<h3 align="left">Hi 👋, I'm Rodriguez Cristian, un apasionado por la tecnología y el desarrollo. Actualmente tengo 28 años y estoy en un emocionante proceso de transformación en mi trayectoria laboral. Mi objetivo es adentrarme en el mundo del desarrollo IT y convertirme en un profesional del rubro.
+<h3 align="left">Soy un apasionado por la tecnología y el desarrollo. Actualmente tengo 28 años y estoy en un emocionante proceso de transformación en mi trayectoria laboral. Mi objetivo es adentrarme en el mundo del desarrollo IT y convertirme en un profesional del rubro.
 
-Soy originario de Argentina y he decidido enfocar toda mi energía en aprender y crecer en el campo de la tecnología. Estoy estudiando diligentemente y adquiriendo habilidades en diversas áreas del desarrollo, desde el front-end hasta el back-end, con la meta de ser un desarrollador Full Stack.
+<p>Soy originario de Argentina y he decidido enfocar toda mi energía en aprender y crecer en el campo de la tecnología. Estoy estudiando diligentemente y adquiriendo habilidades en diversas áreas del desarrollo, desde el front-end hasta el back-end, con la meta de ser un desarrollador Full Stack.</p>
 
-¡Gracias por visitar mi perfil!
 </h3>
 &emsp;
 
