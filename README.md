@@ -41,7 +41,7 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![tailwindcss](https://img.shields.io/badge/tailwind_css-06B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-<h2 align="left">Contactame 🤝 </h2>
+<h2 align="left">🤝 Contactame </h2>
 
 <!--icons and links-->
 <p align="center">
