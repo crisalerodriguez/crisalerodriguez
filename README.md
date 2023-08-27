@@ -1,17 +1,12 @@
 ### Desarrollador Full Stack 
 
-<h1 align="center">Hi 👋, I'm Rodriguez Cristian</h1>
+<h1 align="center">Hola 👋, Soy Rodriguez Cristian</h1>
 
-&emsp;
-<h3 align="left">Soy un apasionado por la tecnología y el desarrollo. Actualmente tengo 28 años y estoy en un emocionante proceso de transformación en mi trayectoria laboral. Mi objetivo es adentrarme en el mundo del desarrollo IT y convertirme en un profesional del rubro.
+<h1 align="left">🚀 Sobre mi <h1>
+
+<p align="justify">Soy un apasionado por la tecnologia y el desarrollo <b>full stack web developer</b> Actualmente tengo 28 años y estoy en un emocionante proceso de transformación en mi trayectoria laboral. Mi objetivo es adentrarme en el mundo del desarrollo IT y convertirme en un profesional del rubro.
 
 <p>Soy originario de Argentina y he decidido enfocar toda mi energía en aprender y crecer en el campo de la tecnología. Estoy estudiando diligentemente y adquiriendo habilidades en diversas áreas del desarrollo, desde el front-end hasta el back-end, con la meta de ser un desarrollador Full Stack.</p>
-</h3>
-&emsp;
-
-<h1 align="left">🚀 About Me</h1>
-
-<p align="justify">As a seasoned <b>full stack web developer</b> hailing from India, I possess an unwavering passion for creating bespoke digital solutions from scratch, fueled by my insatiable appetite for coding. My current focus is on perfecting the art of <b>React.js</b>, a framework that has captured my heart and ignited my creativity. With over <b>3+ years of programming experience</b> under my belt, I bring a wealth of technical expertise to every project I undertake. Moreover, my innate ability to seamlessly blend design aesthetics with cutting-edge technology, allows me to deliver intricate applications as well as simplistic yet elegant websites. So if you're looking for <b>a proficient developer who takes pride in delivering quality results</b>, look no further.</p>
 
 <h1 align="left">🧠 Skills Showcase</h1>
 
