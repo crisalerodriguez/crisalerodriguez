@@ -1,10 +1,10 @@
 ### Desarrollador Full Stack 
 
-<h1 align="center">Hola 👋, Soy Rodriguez Cristian</h1>
+<h2 align="center">Hola 👋, Soy Rodriguez Cristian</h2>
 
-<h1 align="left">🚀 Sobre mi <h1>
+<h1 align="left">🚀 Sobre mi </h1>
 
-<p>Soy un apasionado por la tecnologia y el desarrollo <b>full stack web developer</b> Actualmente tengo 28 años y estoy en un emocionante proceso de transformación en mi trayectoria laboral. Mi objetivo es adentrarme en el mundo del desarrollo IT y convertirme en un profesional del rubro.
+<p>Soy un apasionado por la tecnologia y el desarrollo. Actualmente tengo 28 años y estoy en un emocionante proceso de transformación en mi trayectoria laboral. Mi objetivo es adentrarme en el mundo del desarrollo IT y convertirme en un profesional del rubro.
 
 <p>Soy originario de Argentina y he decidido enfocar toda mi energía en aprender y crecer en el campo de la tecnología. Estoy estudiando diligentemente y adquiriendo habilidades en diversas áreas del desarrollo, desde el front-end hasta el back-end, con la meta de ser un desarrollador Full Stack.</p>
 
